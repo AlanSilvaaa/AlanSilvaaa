@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Alan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3>Informatic Engineering student from Chile</h3>
 
-- 👎 i hate blockly
-
 <h3 align="center">Connect with me:</h3>
 <div align="center"
 >
@@ -26,10 +24,4 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-</p>
-
-<h3 align="center">GitHub Stats:</h3>
-
-<p align= "center">
-TODO slkdjlksjlksjd
 </p>
